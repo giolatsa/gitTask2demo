@@ -1,5 +1,7 @@
 changeddifferent secondFile 1
 changeddifferent secondFile 2
+updated secondFile 1
+updated secondFile 2
 secondFile 3
 secondFile 4
 secondFile 5
