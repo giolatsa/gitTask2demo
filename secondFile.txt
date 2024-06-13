@@ -1,5 +1,5 @@
-secondFile 1
-secondFile 2
+changeddifferent secondFile 1
+changeddifferent secondFile 2
 secondFile 3
 secondFile 4
 secondFile 5
